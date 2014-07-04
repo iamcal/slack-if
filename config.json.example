@@ -1,0 +1,9 @@
+
+{
+	"webhook_url"	: "https://MYTEAM.slack.com/services/hooks/incoming-webhook?token=TOKEN",
+	"bot_name"	: "zorkbot",
+	"channel"	: "#zork",
+	"frotz_path"	: "/path/to/frotz",
+	"zfile_path"	: "/path/to/zork1.z5",
+	"server_port"	: 1234
+}
